@@ -4,4 +4,5 @@ Load https://mitre-attack.github.io/attack-navigator/ or https://github.com/mitr
 New tab / Open existing layer JSON files from: https://atomicredteam.io/coverage/
 Upgrade as directed during import
 ## Lab Setup Part 2
-AWS more later
+The VM image file for labs is detailed on the wiki page 
+AWS more later tuesday.
