@@ -1,5 +1,8 @@
 Just after starting Windows lab to set up environment:
+Open Chrome and right-click Code / download zip| unzip | make shortcut
 Open Chrome and click this Github page in Labs / Lab-Level-2.txt
+Zoom in if nessessary.
+
 1. Clear event logs:
 	Right click each log |select the command 
 	Clear Log... from the context menu
@@ -43,9 +46,11 @@ Test 3
 Test 4
 T1547.001
 -TestNumbers 3-4
+? When will you see Results of #4 ?
 Optional 7-8
 
 Test 5
+Install certificates (From zipped github), Install Putty, make certificates with putty
 T1552.004
 -TestNumbers 1-4
 Optional 9-10
