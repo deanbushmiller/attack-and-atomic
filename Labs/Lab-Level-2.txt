@@ -5,7 +5,7 @@ Just after starting Windows lab to set up environment:
 
 2. Set Powershell enviroment (EVERY TIME YOU OPEN POWERSHELL)
 	Powershell as Administrator
-	$Host.PrivateData.ErrorForegroundColor = 'Yellow'; if ($?) Import-Module "C:\AtomicRedTeam\invoke-atomicredteam\Invoke-AtomicRedTeam.psd1" -Force
+	$Host.PrivateData.ErrorForegroundColor = 'Yellow'; if ($?) {Import-Module "C:\AtomicRedTeam\invoke-atomicredteam\Invoke-AtomicRedTeam.psd1" -Force}
 
 3. View test artifacts
 	After first test navigate to:
