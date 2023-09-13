@@ -17,7 +17,7 @@ Just after starting Windows lab to set up environment:
 Lab-level 2
 General format of commands for lab
 
-Invoke-AtomicTest T####.0## -GetPreq
+Invoke-AtomicTest T####.0## -GetPrereqs
 Invoke-AtomicTest T####.0## -TestNumbers # -ShowDetails
 Invoke-AtomicTest T####.0## -TestNumbers # -PromptForInputArgs
 Other Test Numbers to run #-#
@@ -26,12 +26,12 @@ Optional # test that work with this setup
 Auto complete is your friend (up arrow)
 
 Test 1
-Invoke-AtomicTest T1078.001 -GetPreq
+Invoke-AtomicTest T1078.001 -GetPrereqs
 Invoke-AtomicTest T1078.001 -TestNumbers 1 -ShowDetails
 Invoke-AtomicTest T1078.001 -TestNumbers 1 -PromptForInputArgs
 
 Test 2
-Invoke-AtomicTest T1204.002 -GetPreq
+Invoke-AtomicTest T1204.002 -GetPrereqs
 Invoke-AtomicTest T1204.002 -TestNumbers 1 -ShowDetails
 Invoke-AtomicTest T1204.002 -TestNumbers 1 -PromptForInputArgs
 Other Test 8
