@@ -1,4 +1,5 @@
 Just after starting Windows lab to set up environment:
+Open Chrome and click the Github page
 1. Clear event logs:
 	Right click each log |select the command 
 	Clear Log... from the context menu
