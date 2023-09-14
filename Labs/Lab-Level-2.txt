@@ -41,7 +41,8 @@ Optional 3-6
 
 Test 3
 1546.001
--TestNumbers 2
+-TestNumbers 1
+AFTER CLASS try other .002 - .015
 
 Test 4
 T1547.001
